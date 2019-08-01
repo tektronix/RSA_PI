@@ -1,4 +1,4 @@
-# RSA_PI
+# RSA_PI [![Tektronix](https://tektronix.github.io/media/TEK-opensource_badge.svg)](https://github.com/tektronix)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftektronixofficial%2FRSA_PI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftektronixofficial%2FRSA_PI?ref=badge_shield)
 
 
